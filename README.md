@@ -17,4 +17,4 @@ CTEs, multiple `JOIN`s (including `LEFT JOIN`), `UNION ALL`, aggregation, window
 Google BigQuery, Looker Studio
 
 ## Result
-[Dashboard link]([https://datastudio.google.com/u/0/reporting/ee51abde-7d24-409b-ba20-c8ee8bc404a2/page/tEnnC/edit](https://datastudio.google.com/reporting/ee51abde-7d24-409b-ba20-c8ee8bc404a2))
+[Dashboard link](https://datastudio.google.com/u/0/reporting/ee51abde-7d24-409b-ba20-c8ee8bc404a2/page/tEnnC/edit)
